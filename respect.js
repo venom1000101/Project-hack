@@ -25,6 +25,6 @@ client.on("message", message => {
   }
 });
 
-client.login("")
+client.login("OTkwNjg3ODEwMjQ5OTczODQx.Gm8jZg.dY_kmO3Bg094f3CaeMz4W1XGtjESJQsiClVoIM")
 
 ////Respect Up////
